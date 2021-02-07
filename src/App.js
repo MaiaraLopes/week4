@@ -16,6 +16,7 @@ export default function App() {
             <Temperature />
             <Description />
           </div>
+          <small className="footer"><a href="https://github.com/MaiaraLopes/weather-react" target="_blank">Open-source code</a> by Maiara Lopes</small>
         </div>
       </div>
     </div>
