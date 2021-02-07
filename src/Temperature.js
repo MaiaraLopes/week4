@@ -1,7 +1,8 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./Temperature.css";
 
-import "bootstrap/dist/css/bootstrap.min.css";
+
 
 export default function Temperature() {
   return (
